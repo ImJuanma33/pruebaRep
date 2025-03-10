@@ -61,10 +61,10 @@ public class Date {
    *     to pass).
    */
   // Constructor modified by the owner
-  public Date(int dia, int mes, int ano) {
-    this.day = dia;
-    this.month = mes;
-    this.year = ano;
+  public Date(int day, int month, int year) {
+    this.day = day;
+    this.month = month;
+    this.year = year;
   }
 
   /**
